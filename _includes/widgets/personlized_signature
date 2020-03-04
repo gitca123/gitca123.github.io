@@ -1,22 +1,3 @@
-/*
-<div class="widget">
-    <div class="widget-title"><i class="icon-edit"> 心情随笔</i></div><ul></ul>
-        何苦逐利一生忙，终归烟尘；<br>
-        莫若浮云半日闲，快是神仙。<br>
-        幸会。<br><br>
-<td style="text-align: center"><a style="color: slategrey"></a>
-
-        大学里有个微信公众号<br>
-        现在由学弟学妹在写<br>
-        欢迎关注:
-
-<a href="https://mp.weixin.qq.com/s/0XfJB8ngskEo6-9SbJOQyw"
-                   style="color: darkorange;"
-target="_blank" title="点击直达微信公众号～～"><u><b>学沫工作室</b></u></a>
-            </td>
-</div>
-*/
-
 <div class="widget">
     <div class="widget-title"><i class="icon-edit"> 心情随笔</i></div><ul></ul>
         何苦逐利一生忙，终归烟尘；<br>
@@ -25,8 +6,10 @@ target="_blank" title="点击直达微信公众号～～"><u><b>学沫工作室<
 <td style="text-align: center"><a style="color: slategrey"></a>
 
         曾经有个公众号<br>
-        后来注销了<br>
+        后来注销了
 
+<a href="https://mp.weixin.qq.com/s/0XfJB8ngskEo6-9SbJOQyw"
+                   style="color: darkorange;"
+target="_blank" title="点击直达微信公众号～～"><u><b>学沫工作室</b></u></a>
             </td>
 </div>
-
