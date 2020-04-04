@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "在Openwrt的ssr+插件配置和使用说明"
-date:   2019-11-28 10:35:00 -0000
+date:   2020-04-04 10:35:00 -0000
 categories: Openwrt
 tags: 酸酸乳 
 ---
