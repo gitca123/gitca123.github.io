@@ -27,13 +27,13 @@ tags: VS_Code
 
 详细过程如下：
 
-![windoes7设置环境变量PYTHONIOENCODING=UTF8](/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-1.png){:width="600px"}
+![windoes7设置环境变量PYTHONIOENCODING=UTF8](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-1.png){:width="600px"}
 
-![windoes7设置环境变量PYTHONIOENCODING=UTF8](/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-2.png){:width="600px"}
+![windoes7设置环境变量PYTHONIOENCODING=UTF8](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-2.png){:width="600px"}
 
-![windoes7设置环境变量PYTHONIOENCODING=UTF8](/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-3.png){:width="600px"}
+![windoes7设置环境变量PYTHONIOENCODING=UTF8](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-3.png){:width="600px"}
 
-![windoes7设置环境变量PYTHONIOENCODING=UTF8](/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-4.png){:width="600px"}
+![windoes7设置环境变量PYTHONIOENCODING=UTF8](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/windoes7设置环境变量PYTHONIOENCODING=UTF8-4.png){:width="600px"}
 
 ##### 2、修改 VSC 配置文件
 

@@ -15,13 +15,13 @@ tags: IDM 下载 插件
 
     chrome://flags/
 
-![IDM下载悬浮窗不显示](/assets/imgs/article/IDM下载悬浮窗不显示1.png){:width="600px"}
+![IDM下载悬浮窗不显示](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/IDM下载悬浮窗不显示1.png){:width="600px"}
 
 2. 在搜过框输入“network-service”查询该项功能：
 
     network-service
 
-![IDM下载悬浮窗不显示](/assets/imgs/article/IDM下载悬浮窗不显示2.png){:width="600px"}
+![IDM下载悬浮窗不显示](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/IDM下载悬浮窗不显示2.png){:width="600px"}
 
 
 3. 重启浏览器即可

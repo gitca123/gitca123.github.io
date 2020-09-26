@@ -10,7 +10,7 @@ tags: 流媒体 下载 插件
 
 但这但始终不是长久之计，因为我有一台chromebook也需要使用下载插件。于是我准备重新检查一下软件，应用管理中心查看chrono插件发现一个情况：插件用户过少（原先都是百万级用户量）：
 
-![Chrono下载管理器失效](/assets/imgs/article/Chrono下载管理器失效1.png){:width="600px"}
+![Chrono下载管理器失效](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/Chrono下载管理器失效1.png){:width="600px"}
 
 随后我就进行了查阅，看问题到底出在哪里。进入[Chrono下载管理器官网]( https://www.chronodownloader.net/ )发现，原始官网给出的应用中心链接已经404，应该是新软件下架后又有人上传了类似的名称类似的软件。
 

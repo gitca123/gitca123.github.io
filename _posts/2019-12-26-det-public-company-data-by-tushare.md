@@ -38,7 +38,7 @@ Tushare依托Python、pandas，建议直接安装[Anaconda](https://www.anaconda
 
 [注册用户](https://tushare.pro/register?reg=317320)即可获得Tushare的Token，进而通过平台爬取数据。
 
-![power query中使用参照表动态替换文章标题](/assets/imgs/article/获取Token.png){:width="600px"}
+![power query中使用参照表动态替换文章标题](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/获取Token.png){:width="600px"}
 
 注册帐号后会直接获得100积分，绑定手机、填写单位信息可获得额外20分，[不同积分等级对应不同数据抓取权限](https://tushare.pro/document/1?doc_id=108)，高校学生认证、金融机构从业人员认证可快速获得积分。金融机构从业人员可直接获得2000积分，除爬取频次外，和5000积分会员效果无异。
 

@@ -14,7 +14,7 @@ tags: VS_Code
 
 #### 原始教程（英文）
 
-![power query中使用参照表动态替换文章标题](/assets/imgs/article/power query中使用参照表动态替换文章标题.png){:width="600px"}
+![power query中使用参照表动态替换文章标题](https://raw.githubusercontent.com/gitca233/gitca233.github.io/master/assets/imgs/article/power query中使用参照表动态替换文章标题.png){:width="600px"}
 
 参考内容：
 
